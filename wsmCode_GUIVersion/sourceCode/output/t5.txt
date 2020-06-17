@@ -1,0 +1,88 @@
+territori 445 1 444 1 442 1 439 1 441 1 443 1 440 1 446 1 
+terror 256 1 
+test 230 1 
+tetra 210 1 1329 1 
+text 1137 1 989 1 
+thackeray 536 1 
+theft 310 1 
+theorem 697 1 718 1 1106 1 
+theori 98 1 917 1 722 1 1285 1 596 1 
+thermal 978 1 
+theron 1414 1 1413 1 
+thing 97 1 
+thornton 960 1 
+thuringiensi 930 1 773 1 
+tiger 1518 1 
+time 1521 1 40 1 330 1 
+timecod 1009 1 
+titl 1438 1 
+topic 308 1 719 1 
+toriyama 145 1 
+total 553 1 
+tower 1028 1 
+track 309 1 
+trade 1189 1 
+traffic 743 1 
+transform 1068 1 
+transmiss 922 1 
+transnat 452 1 446 1 406 1 383 1 404 1 386 1 399 1 377 1 
+transport 398 1 1447 1 901 1 422 1 468 1 461 1 444 1 436 1 413 1 430 1 451 1 382 1 479 1 393 1 
+treati 64 1 
+tree 858 1 857 1 1103 1 
+triangl 1218 1 
+tribe 845 1 
+triest 1325 1 
+trio 349 1 351 1 350 1 
+troa 139 1 
+truso 830 1 
+tundu 1320 1 
+tv 1064 1 
+tweed 1111 1 
+uk 970 1 
+ulam 697 1 
+ulvaeus 506 1 
+uniform 55 1 
+union 68 1 
+unit 1459 1 80 1 585 1 1119 1 1071 1 641 1 1449 1 978 1 
+univers 753 1 1481 1 1128 1 849 1 
+unix 1014 1 
+ursa 146 1 
+util 761 1 
+vaccin 779 1 
+vaginosi 1037 1 
+valuabl 586 1 
+vampir 806 1 
+variabl 1430 1 
+velvet 621 1 
+vincent 143 1 
+violin 352 1 
+virgin 448 1 373 1 447 1 452 1 449 1 450 1 451 1 
+voic 1286 1 
+wall 491 1 
+walsh 759 1 
+war 1197 1 1479 1 
+warfar 882 1 
+warthog 182 1 
+water 284 1 
+waterloo 879 1 
+watterson 676 1 
+way 97 1 
+weav 324 1 
+weight 1142 1 227 1 
+west 141 1 
+whale 1272 1 
+whistl 48 1 
+whorf 296 1 
+wield 43 1 
+wikipedia 741 3 737 2 740 2 745 2 746 2 738 2 742 2 744 2 743 2 739 2 719 1 
+will 1205 1 
+willi 1012 1 
+william 1111 1 
+wire 575 1 
+wireless 1047 1 
+wizard 5 1 
+woman 52 1 
+world 1424 1 1348 1 593 1 592 1 
+year 1136 1 587 1 
+york 647 1 810 1 
+young 1180 1 1354 1 
