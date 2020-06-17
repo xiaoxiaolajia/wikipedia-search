@@ -1,0 +1,3 @@
+The 'testData.xml'(about 50 MB) file is a piece of the original Wikipedia xml dump file(about 70 GB) in order for you to test the Indexing.py function in a very short time.
+You just need to type 'python Indexing.py ouputFilePath' where outputFilePath is the path you want to save the postnig list fot search then you will get a posting list for search.py.
+If you don't want to generate the posting list. We have offered you a 'output' file in which saves the posting list. You just need to run 'python search.py ./output' in the console then you can search. Because the 'output' file is just a very small part of the original Wikipedia xml dump, there may be no results in the searching.

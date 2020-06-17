@@ -1,0 +1,106 @@
+idea 741 1 
+ident 1287 1 
+ii 813 1 1266 1 
+iii 1050 1 253 1 
+imagin 25 1 
+inc 1073 1 
+incid 1177 1 
+index 1173 1 
+india 364 1 387 1 388 1 389 1 390 1 
+indian 445 1 444 1 442 1 439 1 441 1 443 1 440 1 446 1 
+indiana 137 1 
+inedia 1349 1 
+inequ 1138 1 
+infinit 228 1 1475 1 
+inscript 1174 1 
+instant 27 1 
+instrument 1282 1 
+interest 509 1 
+interior 39 1 
+intern 1142 1 
+introduct 838 1 
+ireland 1066 1 
+irish 606 1 
+isaiah 885 1 
+isfahani 105 1 
+isl 502 1 
+island 1337 1 379 1 452 1 425 1 431 1 450 1 373 1 447 1 428 1 381 1 449 1 430 1 361 1 247 1 380 1 448 1 382 1 426 1 429 1 427 1 451 1 
+isol 993 1 
+issu 452 1 446 1 406 1 383 1 404 1 386 1 399 1 377 1 
+itali 234 1 629 1 
+jay 85 1 
+jefferson 1029 1 
+jensen 96 1 
+jeremiah 884 1 
+job 903 1 332 1 
+joel 941 1 
+jonah 944 1 
+jone 1128 1 
+joshua 864 1 
+joy 632 1 
+jr 1331 1 
+judg 895 1 
+jump 932 1 
+june 117 1 
+justic 80 1 
+jutland 1023 1 
+kane 1463 1 
+karmal 956 1 
+kernighan 687 1 
+ket 1010 1 
+key 1074 1 
+keyword 308 1 
+khmelnytski 1311 1 
+khmer 1458 1 
+king 898 1 
+kingdom 1119 1 1071 1 641 1 
+knife 761 1 
+knight 1232 1 
+knive 760 1 
+kokhba 665 1 
+kong 1028 1 
+krarup 47 1 
+l 90 1 
+lab 486 1 
+lack 25 1 
+lactam 929 1 
+lactamas 1057 1 
+laden 1234 1 
+lambert 965 1 
+lament 906 1 
+lamo 79 1 
+lancast 1007 1 
+lancer 1291 1 
+languag 1123 1 1025 1 794 1 53 1 1079 1 1116 1 964 1 750 1 65 1 934 1 731 1 749 1 1495 1 504 1 1458 1 700 1 1402 1 
+lara 888 1 
+laurent 77 1 
+law 1483 1 1484 1 299 1 353 1 298 1 825 1 965 1 
+leader 553 1 
+leaf 337 1 
+leagu 586 1 590 1 588 1 591 1 553 1 589 1 587 1 
+leather 890 1 
+lee 296 1 
+leg 722 1 
+lemon 1029 1 
+leonard 725 1 
+lerner 85 1 
+letter 298 1 
+lewi 1454 1 
+lhop 407 1 
+libel 1283 1 
+liber 970 1 
+liberti 923 1 
+licens 505 1 
+lifeson 6 1 
+link 738 1 742 1 743 1 
+linnaeus 1471 1 
+lion 606 1 1340 1 
+list 668 1 1071 1 1481 1 742 1 553 1 1347 1 604 1 
+literatur 408 1 
+littl 42 1 
+lockhe 183 1 
+lomborg 1334 1 
+lostwithiel 755 1 
+louisiana 138 1 
+love 310 1 
+lugosi 1344 1 

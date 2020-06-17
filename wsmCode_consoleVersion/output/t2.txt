@@ -1,0 +1,193 @@
+cognitivetherapi 1406 1 
+cold 1479 1 
+coldwar 1390 1 
+collect 1503 1 
+colleg 1481 1 809 1 
+colombia 1462 1 
+columbia 318 1 
+com 744 1 
+combin 1513 1 
+combinator 1429 1 1404 1 
+comedi 1418 1 
+comedyfilm 1409 1 
+common 1483 1 781 1 353 1 1292 1 1487 1 
+commonsens 1362 1 
+commonsenseandthediallelus 1399 1 
+commonwealth 304 1 
+communic 473 1 390 1 1432 1 443 1 429 1 478 1 
+compani 1297 1 
+compat 952 1 
+complex 705 1 1460 1 
+comput 1502 1 1521 1 1515 1 1505 1 1360 1 1486 1 1508 1 157 1 1456 1 1493 1 1522 1 1451 1 1489 1 32 1 1516 1 
+computerhardwar 1423 1 
+computersoftwar 1361 1 
+concept 172 1 
+condens 963 1 
+condit 200 1 1509 1 201 1 
+cone 1511 1 
+conic 1510 1 
+conjug 953 1 
+conquest 126 1 
+conscious 1400 1 
+consequenti 1397 1 
+consol 1517 1 
+consolationofphilosophi 1398 1 
+conson 170 1 
+constel 1490 1 1405 1 
+constitut 1436 1 1482 1 
+content 1212 1 
+contin 1435 1 
+continu 1430 1 
+continuo 1219 1 
+contract 654 1 
+control 1506 1 
+convent 664 1 1303 1 
+convex 55 1 
+copenhagen 1426 1 
+copyright 1494 1 
+corbett 1115 1 
+corpor 135 1 999 1 
+costa 1249 1 
+count 1335 1 
+countabl 1475 1 
+counti 1331 1 
+countri 1425 1 1478 1 1376 1 
+countries 1383 1 
+countriesa 1364 1 
+countriesb 1380 1 
+countriesc 1377 1 
+countriesd 1374 1 
+countriesf 1384 1 
+countriesg 1368 1 
+countriesh 1378 1 
+countriesi 1386 1 1474 1 
+countriesj 1379 1 
+countriesk 1375 1 
+countriesl 1381 1 
+countriesm 1382 1 
+countriesn 1365 1 
+countrieso 1369 1 
+countriesoftheworld 1359 1 
+countriesp 1367 1 
+countriesq 1385 1 
+countriesr 1388 1 
+countriess 1372 1 
+countriest 1411 1 
+countriesu 1373 1 
+countriesv 1439 1 
+countriesw 1452 1 
+countriesz 1366 1 
+court 80 1 1485 1 
+cover 989 1 
+cow 1251 1 
+crane 955 1 
+creed 245 1 
+crisi 1145 1 
+croni 1480 1 
+crosbi 662 1 
+crouch 1518 1 
+cryptanalysi 1393 1 
+cryptographi 1392 1 1422 1 
+cryptolog 1421 1 1391 1 
+cryptomonad 1496 1 
+crystal 1081 1 
+cue 356 1 
+cult 1419 1 1035 1 
+cultfilm 1410 1 
+cumulativedistributionfunct 1417 1 
+curv 1172 1 1171 1 1094 1 
+cutter 760 1 
+cytoplasm 1437 1 
+da 364 1 387 1 388 1 389 1 390 1 
+daiquiri 1253 1 
+danc 1247 1 732 1 281 1 1158 1 
+daniel 866 1 
+danner 723 1 
+dark 216 1 
+darya 125 1 
+data 1508 1 
+davidian 1168 1 
+day 617 1 1109 1 
+db 1125 1 
+de 797 1 796 1 
+dead 78 1 
+death 982 1 256 1 
+debut 1124 1 
+decay 1083 1 
+decim 565 1 
+declar 1193 1 1164 1 1194 1 
+decomposit 681 1 
+defenc 480 1 
+demograph 380 1 1443 1 464 1 410 1 418 1 440 1 475 1 448 1 
+depress 209 1 
+descent 1487 1 
+design 785 1 
+deutschland 287 1 
+diab 19 1 
+diamond 926 1 
+diari 12 1 
+diddley 1343 1 
+die 1087 1 
+dig 855 1 
+dipper 358 1 
+director 1196 1 
+disambigu 611 1 300 1 289 1 533 1 1492 1 1350 1 485 1 652 1 1511 1 70 1 1485 1 1319 1 799 1 358 1 531 1 1234 1 1179 1 1172 1 535 1 307 1 497 1 967 1 702 1 
+disc 57 1 
+diseas 594 1 1147 1 
+disord 1265 1 666 1 122 1 1005 1 
+disra 600 1 
+distribut 721 1 601 1 
+divis 591 1 590 1 
+doctrin 1317 1 
+doll 176 1 
+domain 677 1 833 1 
+dostam 9 1 
+dot 823 1 
+dragon 1518 1 
+drunk 354 1 
+druyan 87 1 
+dual 43 1 
+duck 121 1 117 1 
+duke 253 1 232 1 
+dunbartonshir 141 1 
+durer 184 1 
+durrani 127 1 
+dutch 24 1 
+dylan 1124 1 310 1 
+dynamit 1357 1 
+e 203 1 204 1 669 1 670 1 
+eagl 915 1 
+earn 549 1 
+earthsea 5 1 
+economi 375 1 459 1 405 1 412 1 403 1 449 1 472 1 434 1 442 1 477 1 420 1 454 1 466 1 428 1 1445 1 
+edg 708 1 
+effect 256 1 671 1 
+eighti 824 1 
+einstein 963 1 
+el 1316 1 
+elblag 829 1 
+elect 1119 1 641 1 
+elimin 839 1 
+emboss 1042 1 
+emperor 668 1 
+empir 127 1 1130 1 
+encod 1520 1 1504 1 
+encyclopedia 738 1 742 1 
+end 78 1 
+engin 1200 1 
+england 971 1 
+english 769 1 1278 1 
+entertain 1235 1 
+epsilon 146 1 
+equilibrium 1512 1 
+erlang 47 1 
+esther 900 1 
+ethic 1162 1 
+europ 1441 1 
+event 564 1 741 1 
+evolut 189 1 
+exampl 750 1 
+expect 208 1 
+ezekiel 907 1 
+ezra 865 1 
+f 1338 1 909 1 1229 1 1497 1 

@@ -1,0 +1,818 @@
+825 1471 1 
+8267 1086 1 
+83 86 1 
+835 54 1 
+8378154 1332 1 
+84 55 1 
+841488 536 1 
+850902 1002 1 
+8529 1479 1 
+854 466 1 
+87 1471 1 
+875 1012 1 
+885 254 1 
+889 299 1 
+89 767 1 
+890 1354 1 
+9 348 4 976 2 221 1 1497 1 1078 1 910 1 751 1 836 1 1479 1 687 1 220 1 891 1 
+90 935 1 1269 1 
+9066 195 1 
+90981 1030 1 
+91 731 1 
+911 783 1 220 1 221 1 
+9110 632 1 
+9171 692 1 
+9180887429 1021 1 
+93 617 1 731 1 871 1 1479 1 395 1 
+930289 1136 1 
+9344 1479 1 
+94 1155 1 
+95 906 1 
+951966 692 1 
+95806 917 1 
+9672 1154 1 
+972502 461 1 
+9756 723 1 
+978 917 1 
+9780199730414 643 2 
+9781405614726 1356 1 
+9781590596722 1125 1 
+98 249 1 351 1 999 1 
+9800 974 1 
+986853 1325 1 
+9906034 55 1 
+_ 190 1 
+_1 120 1 
+_2_b_tree 1103 1 
+_beech 834 1 
+_brainfuck_cobol_compil 709 1 
+_commonbuzzardbbuteo 781 1 
+_dj 1497 1 
+_dvc9ahxh 255 1 
+_ed 1201 1 
+_eid 351 1 
+_en 1349 1 
+_ep059 176 1 
+_fall2003 917 1 
+_g 1201 1 
+_mid 351 1 
+_mord_rytualni 1283 1 
+_reporting_on_the_battle_of_jutland 1023 1 
+_seanbroderick 1269 1 
+_seit 351 1 
+_setlanguag 66 1 
+_smg110 1078 1 
+_sofia 1201 1 
+_spb_3 1332 1 
+_sspc 891 1 
+_ug 351 1 
+_un_analisi_sociolinguistica_degli_striscioni_allo_stadio 190 1 
+_werkid 351 1 
+a00 790 2 
+a1 392 2 
+a12 1479 1 
+a1bor_demeter_penka_peykovska 1201 1 
+a2a2d76992 1078 1 
+a37063 783 1 
+a3d2 1479 1 
+a481 299 1 
+a4bcf887a 299 1 
+a588233 651 1 
+a6 1479 1 
+a7908846 1021 1 
+a8b3b51863795af09 461 1 
+a_dolls_hous 176 1 
+aa 1327 1 
+aa286483 1 1 
+aalto 1126 2 
+aaronson 29 1 
+ab 90 2 1300 1 55 1 
+abai 1332 1 
+abba 507 2 
+abbaseffendi 90 1 
+abbasit 507 1 
+abbey 811 1 1519 1 
+abbeydorney 1269 2 
+abbot 1018 2 
+abbrevi 546 1 
+abc 135 6 648 2 438 1 348 1 138 1 
+abdali 127 4 
+abenny_andersson 507 1 
+abindex 103 1 
+abner 86 4 
+aboard 1023 1 
+aboethius 1517 1 
+abort 1497 1 1349 1 
+about_us 811 1 
+aboutus 912 1 1154 1 1291 1 
+abpp 1215 1 
+abracadabra 67 2 
+abram 932 1 
+abramson 1311 2 327 2 
+abridg 648 2 
+absolut 963 2 
+abstract 62 1 932 1 
+abus 1170 1 
+abyssinian 1332 1 
+ac 1052 4 234 3 183 3 688 2 489 2 699 2 636 2 641 2 1341 2 1034 2 1283 1 600 1 1517 1 1327 1 1519 1 327 1 249 1 762 1 940 1 1300 1 1154 1 1282 1 1104 1 29 1 1170 1 1126 1 969 1 306 1 546 1 935 1 1227 1 64 1 320 1 963 1 
+ac2 783 1 
+academ 1237 2 297 1 
+academia 190 1 1201 1 
+acadèmia 1495 1 
+acbl 654 2 
+acc 459 1 1018 1 
+accessd 1170 1 
+accesstoinsight 319 1 959 1 
+accord 1292 2 159 1 
+account 1269 4 636 2 642 1 1326 1 1018 1 
+achiev 963 1 
+achiltibui 207 1 
+acid 249 19 103 2 
+acid_rain 249 1 
+acidbasebook 103 1 
+acidrain 249 2 
+acidrainretirementfund 249 1 
+acids_bas 103 1 
+ackerman 29 2 
+ackermann 29 6 709 1 
+ackermann_funct 29 1 
+ackermnn 29 1 
+acknowledg 1341 1 
+acm 32 6 
+acoust 1282 2 73 1 
+acquir 999 1 
+acquisit 636 1 
+acrapub 249 1 
+across 403 1 466 1 
+act 195 7 100 3 925 1 135 1 1226 1 
+action 66 2 894 1 299 1 327 1 664 1 
+actium 1327 5 
+activ 910 1 532 1 205 1 
+activest 857 1 
+acu 73 1 
+ad 999 6 689 1 1126 1 459 1 891 1 
+ada338490 518 1 
+adapt 176 1 
+adbarno 235 1 
+addit 972 1 1174 1 
+addr 1268 1 
+address 1355 3 
+address_given_by_winston_churchill_the_sinews_of_peace_fulton_5_march_1946 1479 1 
+adepti 687 1 
+adey 1155 1 
+adgeesj7z1og116xu462bdepflh91vypkxwr5pm56grte13y7rb1fst13gstgge3i_6p7mmfqsw1hvyutwvtf1ytikuecn06_wi 910 1 
+adher 348 1 
+adidarwinian 977 1 
+adirondack 249 2 
+adirondackcouncil 249 1 
+adjac 891 1 
+adl 910 1 
+admb 394 2 
+administr 1153 1 320 1 910 1 461 1 56 1 
+admiralti 1023 1 
+adob 309 1 
+adowa 1332 2 
+adu 781 1 
+adv 135 1 
+advanc 1479 1 671 1 891 1 
+adventur 932 1 
+advertis 1216 1 1167 1 
+advic 1214 1 
+advoc 1214 2 348 1 
+advokat 370 1 
+adwa 1332 2 
+ae60b79aa073a3b 6 1 
+aehousman 204 1 
+aeiou 66 2 
+aerial 836 1 
+aero 177 1 
+aerobat 834 1 
+aerobaticteam 1289 1 
+aerofil 834 2 
+aerospac 834 1 
+aethelra 1519 1 
+af 912 2 1291 2 420 1 976 1 
+af597443a612d9d5a86181537571fedf 664 1 
+afb 891 1 
+affair 297 2 127 1 365 1 415 1 
+affect 249 1 
+afgan_search_unit 127 1 
+afghan 1058 2 127 1 126 1 
+afghanistan 127 7 1058 3 
+afghanistancollect 127 1 
+afghanland 127 1 956 1 
+afi 1463 1 
+afip 999 1 
+afl 1340 1 
+afltabl 1339 1 
+afoabmv1rnu 1355 1 
+africa 367 2 1155 2 438 1 731 1 374 1 664 1 626 1 371 1 
+africainstitut 664 1 
+african 403 3 466 3 1141 1 781 1 731 1 
+afsc 891 1 
+afsouth 414 1 
+after_the_taleban 1058 1 
+ag 1513 1 
+age 1517 2 916 1 1080 1 972 1 486 1 781 1 
+agenc 976 2 461 2 365 1 36 1 1174 1 438 1 1239 1 403 1 466 1 
+agent 910 1 1226 1 
+agetur 327 1 
+agoria 397 2 
+agricol 403 1 466 1 
+agricultur 403 3 466 3 983 1 
+agu 1300 1 
+agutenberg 1517 1 
+agência 438 1 
+ah 1174 1 
+ahietbqqnysjl_dcdhdqvr_emtek0drkag 910 1 
+ahmad 127 3 
+ahmadshah 127 1 
+ahotsak 504 2 
+ahugil 1282 1 
+ai_n8954773 783 1 
+aic 1145 1 
+aid 906 1 680 1 1223 1 1065 1 282 1 1463 1 1161 1 894 1 546 1 
+aiga 913 2 
+aikiweb 1294 1 
+aim 394 2 178 1 177 1 
+ainsworth 1269 2 
+ainsworth_black_conf 1269 1 
+aip 963 2 917 1 
+air 394 3 735 2 912 1 176 1 422 1 790 1 293 1 
+airbotswana 422 1 
+aircraft 834 3 183 1 
+airforc 394 1 
+airfram 1291 1 
+airlin 422 1 
+airman 1291 2 
+airplan 183 1 
+airspac 394 2 1154 1 
+ajcr 1310 1 
+ak 36 7 
+aka 1170 1 
+akshatha 1513 1 
+aktuell 1097 1 
+al 86 10 213 7 249 1 
+aladin 134 4 
+aladinpreview 134 1 
+alamein 598 1 
+alan 680 2 580 1 
+alaska 36 8 100 6 
+alaskool 100 1 
+albert 969 1 131 1 327 1 
+albin 18 2 
+album 716 1 836 1 1131 1 309 1 173 1 
+album1895 836 1 
+alc 589 1 
+alcatel 486 1 
+alcobaca 108 1 
+alcov 1495 1 
+aldebaran 133 1 
+aldiss 1021 10 
+aleph 136 1 891 1 
+alert 783 1 
+aleut 99 4 
+aleutcorp 99 1 
+aleutian 99 4 
+aleutmgt 99 1 
+alex 6 2 802 1 
+alexand 1023 1 
+alexandria 138 5 137 2 136 2 
+alexandriachamb 137 1 
+alexandriaindiana 137 1 
+alexey 89 2 703 1 
+alfr 783 1 999 1 
+algorithm 1103 3 826 1 1301 1 1046 1 1126 1 
+alien 195 12 
+aliv 977 1 
+alkali 963 2 
+allafrica 374 2 
+allbomb 217 2 
+alleanza 234 2 
+alleanzanazional 234 1 
+allegro 349 1 
+allen 910 1 
+allianc 234 1 285 1 
+allthingsbakelit 972 1 
+allweiss 999 1 
+allâh 1123 1 
+alma 255 3 
+almanac 893 2 1015 1 
+almost 554 1 
+along 316 1 
+alongsid 1079 1 
+aloul 1126 2 
+alpha 891 1 
+alphabet 1123 1 751 1 
+alpheio 1433 2 
+also 1126 2 906 1 56 1 
+alt 1478 2 985 1 
+altair 134 9 
+altair2007 134 2 
+alter 916 1 
+amalan 1025 1 
+amanat 976 1 
+amanatbaghdad 976 1 
+amaw 1116 2 
+amaz 874 1 
+amazigh 1116 2 
+amazingczechia 874 1 
+ambiti 1154 1 
+amd 120 7 
+amd_a64_product_id 120 1 
+amdboard 120 2 
+amdid 120 1 
+amer 55 1 
+america 366 2 1090 2 1086 1 1185 1 360 1 
+american 293 3 297 3 648 3 282 2 1031 2 1449 2 999 2 329 2 1215 2 915 2 723 2 1141 1 438 1 747 1 1086 1 914 1 716 1 1069 1 1478 1 925 1 974 1 486 1 767 1 1185 1 654 1 1463 1 1239 1 77 1 360 1 
+americanexperi 297 1 
+americanhistori 1069 1 
+americanmusicpreserv 662 1 1463 1 
+americanpresid 297 1 
+americantheatrew 723 2 77 1 
+americanwaterway 767 1 
+amerikanisch 1479 1 
+amex 1463 1 
+amh 36 1 
+amk 804 1 
+ammem 585 1 
+among 664 1 
+amoxicillin 2 2 
+amplif 6 1 
+amsterdam 327 2 972 1 
+amsterdam_treasur 327 1 
+amsterdambakelitecollect 972 1 
+amu 125 2 1482 1 
+amudaryabasin 125 1 
+amus 86 1 
+an 1239 1 
+ana 88 2 
+anaesthesiamcq 103 1 
+anai 26 3 
+anaisnin 26 1 
+anaisninblog 26 1 
+analog 917 1 
+analysi 1133 3 976 2 348 2 249 1 36 1 438 1 609 1 1201 1 1052 1 1463 1 
+analyt 395 2 
+anatomi 891 1 
+anaï 26 5 
+ancestri 285 1 
+ancient 916 1 1116 1 762 1 40 1 
+ancientinstru 1056 1 
+ancientportsantiqu 136 1 
+ancientscript 1116 1 
+ancmag 285 1 
+ancsa 100 3 
+ancsaindx 100 1 
+and_did_those_feet_in_ancient_tim 40 1 
+ande72 891 1 
+anderson 891 1 
+andersonvillegeorgia 160 1 
+andersson 507 3 
+andrew 1471 1 600 1 153 1 
+anecdot 1275 1 
+anecho 486 2 
+anemain 73 1 
+anemomet 73 8 
+angel 1289 3 893 1 
+angelo 871 1 
+anglic 894 1 
+anglican 648 1 
+anglo 598 1 
+angola 731 2 
+anhydr 2 1 
+anim 86 5 594 3 1145 2 1215 2 916 1 1156 1 728 1 716 1 55 1 913 1 73 1 953 1 1507 1 857 1 29 1 
+anima 594 3 
+animaltrack 913 1 
+animationresourc 86 5 
+animeigo 1145 2 
+anisotropi 728 1 
+ankataa 1025 1 
+ann 1031 1 254 1 
+anniversari 1325 2 648 1 
+annot 501 2 
+announc 594 1 64 1 940 1 
+annrep03 1300 1 
+annual 234 2 1300 1 591 1 590 1 
+anorakzon 1284 1 
+anoth 395 2 
+ansbach 233 7 
+answer 329 1 632 1 
+answer_view 632 1 
+ant 1458 1 
+antenna 329 1 
+anth 1332 1 
+anthem 348 2 
+anthoni 204 1 
+anthophila 1086 1 
+anthrax 910 2 
+anthro 791 1 
+anthropolog 1332 1 
+anti 234 4 370 3 1283 1 64 1 433 1 
+antiquestop 627 1 
+antisemit 1283 1 
+anymor 1126 1 
+anyon 48 4 
+anyone_can_whistl 48 1 
+aod 1356 2 
+aonb 1222 2 
+aonb_cornwal 1222 1 
+apaa 126 1 
+apertium 1495 3 
+aphor 599 1 
+aphorismi 599 1 
+apiai 99 1 
+apocot 546 1 
+apocrypha 546 1 
+apoidea 1086 3 
+apolog 1341 1 
+apostl 1471 2 
+app 1495 1 299 1 282 1 1463 1 367 1 
+appd 461 1 
+appdlc3 1495 1 
+appear 1100 1 802 1 1311 1 
+appendix 1495 3 1458 3 749 3 
+appjava 1495 1 
+applet 1226 1 
+appli 233 1 
+applic 1 4 1434 2 1126 2 1513 1 
+apply2 1519 1 
+appspot 570 1 
+apr 367 1 1102 1 
+apress 1125 1 
+april 598 2 723 2 1065 1 874 1 195 1 687 1 
+aptlevel_3_1 212 1 
+aqr 249 1 
+aquat 249 1 1185 1 
+ar 1079 3 26 1 
+aranes 1495 1 
+arbitrag 187 8 
+arbitrageview 187 2 
+arbor 254 1 
+arc 1497 1 467 1 
+arcadia 54 9 
+arcadia_2001 54 1 
+archabbey 811 1 
+archaeolog 1031 1 
+archaïc 136 1 
+archeolog 126 1 
+archipelago 368 1 
+archiv 1495 12 395 12 1322 9 348 8 195 7 249 7 327 7 594 7 648 7 976 6 1034 6 546 5 1023 5 1356 5 664 5 891 5 1444 5 1478 5 36 4 359 4 374 4 1155 4 1269 4 1021 4 1209 4 285 4 1090 4 414 4 1283 4 910 4 1117 4 1052 4 731 4 1116 4 1025 4 329 4 1463 4 1215 4 674 4 1183 4 1482 4 723 4 963 4 316 3 1154 3 1341 3 632 3 1471 3 641 3 599 3 1479 3 394 3 532 3 680 3 213 3 1507 3 526 3 1259 3 1126 3 969 3 974 3 1303 3 1441 3 687 3 1001 3 6 3 366 3 66 3 585 3 940 3 735 3 913 3 1012 3 836 3 1079 2 176 2 433 2 762 2 749 2 367 2 462 2 204 2 811 2 1349 2 1123 2 870 2 990 2 351 2 1425 2 1420 2 1196 2 1282 2 233 2 408 2 609 2 580 2 311 2 802 2 893 2 627 2 1080 2 56 2 29 2 1174 2 500 2 120 2 959 2 77 2 932 2 557 2 640 2 1156 2 1131 2 1132 2 816 2 1205 2 1275 2 999 2 1517 2 40 2 92 2 985 2 297 2 318 2 370 2 1058 2 901 2 293 2 504 2 983 2 790 2 99 2 486 2 783 2 1189 2 254 2 1232 2 187 2 691 1 349 1 1340 1 362 1 1103 1 938 1 1100 1 1458 1 312 1 1078 1 1307 1 1056 1 692 1 438 1 1497 1 48 1 234 1 909 1 1065 1 1433 1 996 1 478 1 306 1 302 1 173 1 804 1 689 1 1216 1 437 1 371 1 103 1 826 1 916 1 933 1 812 1 403 1 631 1 716 1 1051 1 953 1 1487 1 1449 1 127 1 874 1 646 1 135 1 1186 1 539 1 1310 1 154 1 489 1 520 1 333 1 834 1 562 1 617 1 410 1 1139 1 1201 1 368 1 1158 1 1086 1 626 1 1136 1 1339 1 781 1 518 1 939 1 1290 1 1227 1 1046 1 977 1 855 1 153 1 183 1 1223 1 507 1 595 1 1002 1 1125 1 753 1 1337 1 699 1 1294 1 1222 1 89 1 1039 1 1031 1 1344 1 764 1 1291 1 134 1 415 1 979 1 138 1 42 1 1141 1 1029 1 639 1 1300 1 925 1 1311 1 890 1 972 1 221 1 373 1 483 1 342 1 918 1 1354 1 26 1 1239 1 420 1 220 1 97 1 912 1 935 1 459 1 422 1 236 1 1019 1 771 1 1355 1 1332 1 86 1 598 1 1097 1 1145 1 1443 1 1018 1 159 1 226 1 
+archivehour 1154 1 
+archives_05 1034 1 
+archivesdephilo 327 1 
+archnet 976 1 
+archon 600 1 
+arcticcircl 100 1 
+arcturus 129 1 
+area 195 1 836 1 728 1 974 1 1307 1 
+arefutationrece00caregoog 327 1 
+argo 1126 1 
+argosat 1126 1 
+argu 1226 1 
+argument 1290 1 
+arian 154 4 
+ariane5 154 1 
+arianespac 154 2 
+aristarchus 204 1 
+aristotl 86 1 
+arith 29 1 
+arithmet 159 5 144 1 1287 1 1126 1 29 1 
+arithmeticgeometricmean 144 1 
+arithmomet 999 2 
+ark 1223 1 1097 1 
+arlington 783 1 636 1 
+arlo 254 2 
+arloguthri 254 1 
+arm 394 1 
+armenian 546 2 
+armi 394 4 1215 2 836 2 233 2 66 2 598 1 368 1 
+armour 890 1 
+army_officers_m02 598 1 
+armyupress 836 1 
+arno 235 1 
+arnold 1018 1 
+arnorbcpl 688 2 
+around 393 2 797 1 432 1 
+arquivo 438 1 1463 1 
+array 134 1 
+arrow 177 1 
+art 627 2 1065 2 933 2 731 2 1030 2 1237 1 790 1 266 1 815 1 1068 1 1001 1 1507 1 1282 1 1183 1 
+art00004 42 1 
+art20150601 438 1 
+artedalinguadean 731 1 
+artedalinguadean00dia 731 1 
+artefact 1031 1 
+artel 467 1 
+artemio 190 2 
+arteri 855 2 
+arthur 77 2 96 2 66 1 1034 1 
+arthur_laur 77 1 
+arthurjensen 96 1 
+articl 939 4 1349 3 204 3 912 3 1341 3 282 3 1226 3 703 2 153 2 554 2 461 2 600 2 1356 2 1449 2 783 2 1012 2 54 1 1144 1 671 1 1014 1 1507 1 327 1 1459 1 361 1 1300 1 802 1 92 1 1051 1 56 1 1161 1 1482 1 1311 1 890 1 159 1 1131 1 925 1 1102 1 507 1 1174 1 894 1 1023 1 1067 1 546 1 1019 1 120 1 1463 1 1519 1 692 1 906 1 723 1 1155 1 1237 1 1477 1 333 1 249 1 752 1 1167 1 1021 1 963 1 1455 1 893 1 89 1 651 1 365 1 764 1 1291 1 1103 1 1282 1 910 1 1325 1 173 1 804 1 913 1 852 1 599 1 1186 1 127 1 544 1 891 1 
+article1 963 1 
+article6637160 1051 1 
+article_27ea9b0c 299 1 
+article_4f3210cd 1031 1 
+article_cdo 1161 1 
+article_id 1482 1 
+articlesd 120 1 
+artifact 1031 1 
+artikl 1507 1 
+artist 507 3 254 1 1001 1 293 1 1275 1 1183 1 
+artist_pag 254 1 
+artupd 940 1 
+artwork 1183 1 996 1 
+arxiv 55 1 963 1 
+aryeh 894 1 
+asbmr 716 2 
+asc 689 1 
+ashkouri 976 2 
+ashton 1170 3 
+asia 1058 2 127 1 405 1 362 1 664 1 370 1 626 1 
+asian 127 1 684 1 
+ask 1186 4 779 1 
+asm 709 1 
+asn 1214 4 
+asp 1 10 36 6 939 2 54 2 636 2 894 2 1154 1 1144 1 1495 1 1046 1 414 1 600 1 92 1 749 1 1282 1 1311 1 912 1 654 1 609 1 969 1 1356 1 546 1 374 1 580 1 97 1 594 1 285 1 154 1 489 1 664 1 48 1 365 1 1222 1 1322 1 134 1 1018 1 1109 1 906 1 913 1 802 1 888 1 1325 1 42 1 6 1 532 1 
+aspect 974 2 983 1 
+aspfaq 1 2 
+aspx 1123 1 318 1 1154 1 1463 1 1237 1 403 1 362 1 1444 1 1090 1 731 1 1 1 855 1 477 1 367 1 1482 1 466 1 1104 1 371 1 912 1 1340 1 1449 1 1291 1 641 1 360 1 606 1 1034 1 226 1 1170 1 374 1 1003 1 1307 1 1189 1 1356 1 836 1 420 1 366 1 370 1 152 1 
+asroc 217 1 
+assassin 56 6 
+assembl 709 2 687 1 
+assess 249 1 976 1 
+asset 1300 1 1497 1 120 1 
+assign 1504 2 
+assist 1189 1 395 1 
+associ 1214 7 36 4 609 4 1478 2 183 2 1196 2 285 1 747 1 1047 1 1117 1 126 1 1090 1 1277 1 1449 1 322 1 767 1 99 1 723 1 312 1 999 1 207 1 918 1 397 1 629 1 32 1 
+assoic 99 1 
+assort 249 1 
+astr 917 1 
+astrium 154 2 
+astro 134 1 
+astromart 134 2 
+astronautix 735 2 
+astronom 134 2 
+astrophys 728 1 
+asu 1507 2 1282 1 
+asw2006 234 1 
+asw97 234 1 
+asymptot 152 1 
+atack 394 1 
+atari 1302 3 
+atarimania 1302 1 
+ate 1239 1 
+atext 1517 1 
+ath0 703 1 
+athanasio 1283 1 
+atheist 327 1 
+athlet 753 1 1128 1 
+athlon 120 5 
+athlweb 1232 1 
+athpc 173 1 
+atlanta 173 11 1012 1 
+atlantaga 173 1 
+atlantahistorycent 173 1 
+atlantapd 173 1 
+atlantawatersh 173 1 
+atlas 367 2 779 1 999 1 749 1 781 1 134 1 
+atlnewspap 173 1 
+atmospher 1300 1 132 1 
+atoc 901 1 
+atom 212 2 963 2 
+atomcool 963 2 
+atomopt 963 1 
+atomprob 212 3 
+atsdr 312 2 
+attach 718 1 1226 1 
+attack 394 1 891 1 
+attempt 367 4 183 2 1513 1 976 1 1478 1 1001 1 1497 1 910 1 
+attorney 1117 1 
+attract 86 1 
+au 1214 6 1307 4 135 4 1282 2 1269 2 127 2 1196 2 1339 2 1340 2 976 2 692 2 1193 1 54 1 888 1 1263 1 703 1 1301 1 92 1 963 1 306 1 648 1 1186 1 73 1 1014 1 
+audio 1458 2 1018 2 1495 2 6 2 226 2 1141 1 297 1 1079 1 1012 1 1034 1 917 1 632 1 254 1 
+audioboom 680 2 
+audiovisu 397 1 664 1 
+audubon 329 2 
+auerbach 999 2 
+augsburg 327 1 
+august 539 2 367 2 1155 2 680 1 285 1 1154 1 687 1 871 1 791 1 
+augustus 1283 1 
+auk 329 1 
+aulaenr 781 1 
+austbar 1214 1 
+austin 794 1 
+australia 1214 6 692 2 127 1 1196 1 212 1 226 1 
+australian 135 4 1214 3 226 3 1269 1 1349 1 
+austria 66 4 
+austrian 66 2 
+austro 66 6 
+aut852 699 1 
+author 1021 2 327 2 894 2 1186 1 486 1 1504 1 373 1 1012 1 467 1 1170 1 977 1 599 1 235 1 959 1 362 1 195 1 647 1 421 1 
+author_key 1356 1 
+autobigraphi 648 1 
+autobiographi 648 6 
+autocoursegpa 1322 2 
+autom 1495 2 
+automat 1126 1 999 1 
+automobil 393 2 979 1 
+autonom 1090 1 
+autor528 1021 1 
+autori 699 1 
+autorité 467 1 
+auwi 523 1 
+auxiliari 1269 1 
+auñamendi 1144 1 
+avail 1126 1 1030 1 664 1 1519 1 1479 1 632 1 
+avc 64 3 
+aveiro 236 3 
+avenu 26 1 
+avian 329 1 
+avifauna 329 1 
+aviv 546 1 
+avl 664 2 1495 1 
+avro 1167 2 
+avroarrow 177 1 
+awar 983 1 
+award 586 4 704 2 836 1 1029 1 
+awarenetwork 891 1 
+awc 976 1 
+awcgat 976 1 
+awesomestori 836 1 
+axiolog 175 3 
+azion 234 1 
+azionegiovani 234 1 
+azor 224 2 
+azzi 1449 1 
+b 1291 18 1103 12 912 9 1519 6 311 2 999 2 688 1 985 1 767 1 462 1 969 1 631 1 1126 1 1513 1 329 1 1132 1 1001 1 299 1 367 1 
+b0 1479 1 
+b00b54yx 488 1 
+b018wh7h 1275 1 
+b03b2v6m 699 1 
+b1 1291 1 
+b139242 1463 1 
+b15 299 1 
+b19 1310 1 
+b1o 1268 1 
+b2 40 1 
+b20 360 2 
+b2spirit 912 1 
+b382d69f 1479 1 
+b4a3 1031 1 
+b5900 999 2 
+b5scroll 1183 1 
+b65a597f 329 1 
+b801 1479 1 
+b_1b 1291 1 
+b_rabbani 1058 1 
+ba 414 2 518 1 415 1 410 1 
+baba 127 1 
+babbag 999 6 32 1 
+babe 765 1 
+babel 699 1 
+baberuth 765 2 
+baberuthmuseum 765 1 
+babi 1186 2 
+babic 1126 4 
+babrak 956 1 
+babylon 1183 7 
+babylon5 1183 3 
+bacchus 921 1 
+bacillus 1152 1 
+back 1517 2 395 1 
+backbon 985 1 
+backgammon 863 3 
+backgrou 1239 1 
+background 1239 2 212 1 1158 1 
+backpack 1356 1 
+backward 1495 1 
+bacteri 953 2 
+bad 1357 2 92 1 
+badcbf 1310 1 
+baddest 689 1 
+badk 1156 1 
+badminton 626 8 
+badmintonafrica 626 1 
+badmintonasia 626 1 
+badmintoneurop 626 1 
+badmintonpanam 626 1 
+bagdadi 976 1 
+bagdady551878 976 1 
+bagend2 92 1 
+baghdad 976 12 
+baghdadethno1 976 1 
+baghdadmapb 976 1 
+bagpuss 1284 5 
+baha 818 1 
+bahai 818 3 90 2 
+bahama 360 6 
+bahá 818 4 90 3 
+baiona 1144 2 
+bajón 790 1 
+bakassi 1155 2 
+bakeliet 972 1 
+bakelit 972 6 
+bakelitemuseum 972 1 
+baker 361 2 
+baker_island 361 1 
+baksh 1123 1 
+baku 1030 3 
+bal 536 2 871 1 
+balanc 1189 1 1103 1 
+balasson 1007 1 
+bald 915 4 
+bald01 693 1 
+baldeagl 915 1 
+baldeagleinfo 915 2 
+baldr 693 1 
+balear 1495 1 
+balkan 1201 4 333 1 
+balkanalysi 1201 2 
+balkaninsight 1201 1 333 1 
+ball 585 3 
+ballad 1034 17 311 2 
+balladsearch 1034 1 
+ballarat 1307 10 
+ballarat_and_district_industrial_heritage_project 1307 1 
+ballaratnight 1307 1 
+ballist 64 1 999 1 
+ballpoint 996 3 
+balmor 1078 2 
+balmoralcastl 1078 1 
+balsal 1112 2 
+balsallheathforum 1112 1 
+balsallheathhistori 1112 1 
+baltic 794 1 
+baltimor 871 1 
+baltimoresun 871 1 
+bam 55 1 1025 1 
+bamadaba 1025 1 
+bambara 1025 19 
+bamidbar 894 2 
+ban 664 1 1420 1 56 1 
+bancroft 1223 1 
+band 1102 8 86 1 
+banda 1337 2 
+bander 329 1 
+bandi 938 7 
+bandysidan 938 2 
+bang 728 5 
+bangladesh 362 5 
+banjo 580 13 
+banjohangout 580 1 
+banjonew 580 1 
+bank 1445 2 374 1 405 1 367 1 403 1 629 1 
+bankinghistori 629 1 
+bankinginfo 403 1 
+banknot 699 1 
+bankofcanada 1445 1 
+bankruptci 1117 9 
+bankruptcybas 1117 1 
+bankruptcycourt 1117 2 
+bankruptcystat 1117 1 
+bantu 731 12 
+bantuclassif 731 1 
+bapat 959 2 
+bapcpa 1117 1 
+baptism 846 4 643 2 
+baptist 643 1 
+bar 1214 12 
+barbara 783 3 
+barcelona 937 4 
+barcelonnett 817 1 
+barclay 1282 1 
+barcouncil 1214 1 
+barg 767 4 
+barium 518 2 
+barlibrari 1214 1 
+barney 1275 11 
+barneybubbl 1275 1 
+barock 627 1 
+baroqu 627 6 1158 1 
+baroqued 1158 2 
+baroquelif 627 1 
+barren 1442 3 
+barrenland 1442 2 
+barri 804 5 893 4 1067 1 
+barrist 1214 5 
+barristermagazin 1214 1 
+barrylyndon 804 1 
+barrypopik 1067 1 
+bartlebi 850 2 1018 1 1034 1 648 1 
+bartok 1001 4 
+bartokmuseum 1001 1 
+bartosz 1310 1 
+bartók 1001 7 
+baruch 327 3 
+base 932 5 585 3 103 2 680 2 1126 2 1458 1 394 1 857 1 553 1 66 1 595 1 
+basebal 585 4 592 4 893 4 550 4 704 3 591 2 870 2 590 2 589 2 367 2 586 2 553 2 554 1 549 1 871 1 557 1 
+baseballhal 704 1 
+baseballhistoryshort 585 1 
+baseballlibrari 557 3 
+basejump 932 3 
+basel 664 12 1259 8 187 1 
+baselc 1259 1 
+baselland 1259 1 
+basenam 1123 1 
+bash 1014 5 

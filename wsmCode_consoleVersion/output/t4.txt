@@ -1,0 +1,110 @@
+orient 61 1 45 1 
+oriol 871 1 
+outback 226 1 
+outlin 977 1 
+overflow 891 1 
+page 1 1 
+pair 842 1 
+pajitnov 89 1 
+pakistan 1110 1 
+palac 636 1 
+palma 797 1 796 1 
+paradox 681 1 1346 1 
+park 680 1 1036 1 
+parti 970 1 844 1 
+particular 597 1 
+pascal 699 1 
+pasternak 1097 1 
+peleliu 835 1 
+pen 631 1 996 1 
+penalti 256 1 
+pennsylvania 1277 1 
+peopl 128 1 407 1 426 1 1146 1 
+percentag 556 1 
+peren 595 1 
+period 1499 1 
+perkin 801 1 
+person 1515 1 
+pharsalus 660 1 
+phenomenon 197 1 
+philosophi 1517 1 959 1 
+phoenix 181 1 
+piano 349 1 351 1 350 1 
+pierc 81 1 82 1 
+pitch 554 1 
+plagu 1147 1 
+plant 335 1 336 1 
+plate 560 1 
+play 1044 1 561 1 
+player 586 1 
+plus 558 1 156 1 
+point 718 1 727 1 
+poitier 984 1 
+polic 78 1 
+polit 476 1 419 1 465 1 1444 1 1071 1 411 1 458 1 433 1 
+portug 236 1 108 1 
+posit 583 1 
+potter 969 1 
+power 168 1 
+prayer 1292 1 
+predict 1280 1 
+prefix 703 1 
+press 741 1 
+prime 1118 1 
+princ 931 1 
+principl 229 1 
+printer 1493 1 
+prize 940 1 
+probabl 1246 1 
+probe 212 1 
+problem 1126 1 
+process 1459 1 634 1 
+product 562 1 
+program 61 1 750 1 53 1 964 1 1516 1 
+proverb 905 1 
+prussia 232 1 
+public 1022 1 677 1 
+puzzl 715 1 
+qaghan 569 1 
+qaǧan 570 1 
+quabail 13 1 
+quartet 347 1 
+queen 1070 1 
+querfurt 1342 1 
+quint 789 1 
+rabbani 1058 1 
+radiat 1239 1 
+radio 875 1 340 1 
+rail 902 1 901 1 
+railway 927 1 
+rain 249 1 
+ramilli 686 1 
+random 1430 1 
+rap 21 1 
+rashid 9 1 
+raven 843 1 
+reaction 103 1 
+recent 205 1 
+reconstruct 925 1 
+record 624 1 
+red 876 1 870 1 
+reiter 530 1 
+relat 384 1 438 1 456 1 481 1 395 1 613 1 415 1 1449 1 424 1 401 1 470 1 
+replic 707 1 
+return 1133 1 
+revel 897 1 
+revisit 279 1 
+revolut 1267 1 
+rig 1245 1 
+riga 231 1 
+river 736 1 
+road 610 1 
+robert 290 1 1236 1 
+robin 1134 1 
+rockwel 1291 1 
+role 1044 1 
+roll 730 1 
+roman 1227 1 
+romania 142 1 
+romant 45 1 
+rooki 587 1 

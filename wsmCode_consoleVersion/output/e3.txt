@@ -1,0 +1,757 @@
+i046 152 1 
+i22wec1ttgo 1103 1 
+i39 1289 1 
+i_poeti_della_curva 190 1 
+iae 1349 1 
+iaea 1083 2 
+ian 26 1 999 1 
+iana 1504 2 
+ianjoyn 999 1 
+iauiraq 976 1 
+ibc 329 1 
+ibercaja 781 1 
+ibg 314 1 
+ibhof 814 1 
+ibiblio 1275 3 627 1 
+ibnliv 536 2 
+ibsa 438 2 
+ibsanew 438 1 
+ibsen 176 1 
+ibu 918 1 
+ic 1126 2 
+icc 662 1 
+iccf 1415 2 
+ice 916 1 
+icethesit 507 2 
+icj 1155 1 
+icl 1482 1 
+iconographi 1018 1 
+ict 397 1 
+ictp 1126 1 
+id 933 2 1356 2 1471 2 1123 1 6 1 699 1 600 1 1001 1 190 1 664 1 351 1 1046 1 48 1 327 1 55 1 703 1 1030 1 88 1 749 1 1003 1 893 1 632 1 1284 1 1332 1 86 1 1080 1 176 1 1167 1 1174 1 783 1 609 1 1023 1 235 1 285 1 374 1 26 1 120 1 254 1 1012 1 397 1 1482 1 
+id13 680 1 
+id38 735 1 
+idd 1444 2 
+ide 709 1 
+idea 486 3 580 1 933 1 1226 1 1482 1 671 1 
+ideafind 996 1 
+ideasroadshow 580 1 
+ident 1287 1 134 1 
+identif 120 2 329 1 1086 1 
+identifi 329 1 913 1 518 1 
+ideolog 234 1 
+idi 1144 1 
+idr 790 1 
+idx 329 1 691 1 1139 1 
+ie 1269 4 1002 1 1478 1 1341 1 836 1 1268 1 1495 1 910 1 461 1 1214 1 
+iec 1495 3 
+iecat 1495 1 
+ieee 1459 1 
+iep 62 1 1226 1 
+if 374 2 362 2 367 2 366 2 371 2 360 2 
+ifcext 1196 1 
+ifhof 802 1 
+igcp 316 1 
+igcp521 316 1 
+ign 1131 2 54 2 
+ii 1 6 689 2 86 1 598 1 999 1 187 1 
+iii 86 1 544 1 891 1 
+ijcai2013 1186 1 
+ijunoon 1123 1 
+il 234 3 1283 1 136 1 546 1 
+illicit 910 1 
+illinoi 299 1 26 1 648 1 
+illustr 1433 1 1226 1 1012 1 887 1 969 1 1196 1 1029 1 693 1 
+ilotsacr 483 1 
+imag 134 5 1034 2 999 2 969 2 693 2 1031 1 1461 1 1086 1 914 1 132 1 56 1 1083 1 491 1 127 1 1097 1 212 1 718 1 976 1 120 1 836 1 152 1 226 1 855 1 
+imagesofbernard 1018 1 
+imagin 486 1 
+imapdkbig 532 1 
+imdb 213 2 176 1 
+img 688 1 
+immigr 195 2 
+impact 36 1 983 1 999 1 648 1 
+imperi 680 1 
+implement 1103 2 703 1 826 1 891 1 
+import 1445 1 
+imposs 395 2 
+impress 1201 1 
+improv 395 3 974 1 
+imyura 1116 2 
+in_depth 1341 3 1058 1 
+inc 36 3 804 1 674 1 
+includ 999 2 716 2 731 2 1322 2 804 1 704 1 1154 1 282 1 1025 1 546 1 1079 1 135 1 914 1 1174 1 1275 1 64 1 29 1 557 1 
+incorpor 361 1 
+increas 205 1 
+incremento 1471 1 
+indel 804 1 
+indelibleinc 804 1 
+independ 1021 2 1325 1 
+index 1079 2 327 2 749 2 29 2 1126 2 1471 2 1156 2 687 2 266 2 1341 2 6 2 1495 2 1090 2 92 2 1444 2 532 2 1025 2 348 2 648 2 963 2 1348 1 1117 1 977 1 1069 1 1455 1 1425 1 1282 1 594 1 311 1 1100 1 507 1 1274 1 969 1 329 1 718 1 1215 1 77 1 1155 1 600 1 859 1 1132 1 632 1 875 1 466 1 1482 1 205 1 999 1 1284 1 580 1 979 1 1139 1 437 1 320 1 297 1 403 1 477 1 66 1 1461 1 901 1 1034 1 953 1 592 1 1504 1 1449 1 1479 1 912 1 398 1 1097 1 221 1 1023 1 1307 1 420 1 206 1 220 1 1065 1 935 1 664 1 293 1 365 1 790 1 974 1 1337 1 99 1 207 1 1018 1 370 1 1189 1 1433 1 836 1 915 1 1259 1 
+index1 963 1 914 1 
+index2 762 1 
+index_ 1259 1 
+index_1 213 1 
+index_benchmark 1126 1 
+index_en 1116 1 348 1 910 1 
+index_eng 972 1 415 1 
+index_uk 609 1 
+indexintro 648 1 
+indexjut 1023 1 
+india 127 1 438 1 1349 1 536 1 500 1 
+indiamus 500 1 
+indian 159 1 500 1 
+indiana 348 2 1232 2 1025 1 137 1 
+indiatoday 536 1 
+indic 348 1 
+indiscern 1226 1 
+individu 1282 1 999 1 
+indtoy 86 1 
+induct 1029 1 
+inducte 1029 2 1205 1 704 1 
+industri 1307 1 414 1 595 1 
+inedia 1349 1 
+infant 846 1 643 1 
+inferior 845 1 
+inferno 687 1 
+infinitydb 1103 2 
+influenc 1133 3 627 1 688 1 1479 1 
+info 195 6 749 5 1018 4 1458 3 834 2 1158 2 1023 2 836 2 320 2 1039 1 664 1 977 1 802 1 1471 1 1003 1 1223 1 1080 1 126 1 160 1 1116 1 1441 1 937 1 42 1 1215 1 811 1 1259 1 544 1 
+infograph 1189 1 
+infolin 318 1 
+inform 403 2 914 2 977 2 749 2 1158 2 976 2 520 2 80 1 1154 1 233 1 1117 1 1125 1 600 1 1425 1 392 1 96 1 594 1 1025 1 1282 1 874 1 534 1 969 1 1170 1 374 1 2 1 1183 1 370 1 127 1 154 1 1294 1 348 1 834 1 266 1 1147 1 351 1 963 1 466 1 790 1 1152 1 910 1 414 1 693 1 212 1 544 1 915 1 302 1 187 1 
+informat 1186 2 392 1 
+ingentaconnect 42 1 
+init 1103 1 
+initi 1003 1 1023 1 1227 1 891 1 
+inject 619 2 
+inner 285 1 1214 1 
+innercitypress 285 1 
+innertempl 1214 1 
+innov 486 1 
+innovis 1333 1 
+inourtim 627 2 933 1 327 1 
+inourtime_20050519 933 1 
+inourtime_20070503 327 1 
+inpris 674 2 
+input 1126 1 
+inr 963 1 
+inscript 1174 2 570 1 
+inse 1144 2 
+insert 1300 1 
+insid 1358 1 891 1 592 1 
+insight 1201 1 333 1 
+insist 1341 1 
+insolv 1117 2 
+inspect 594 3 
+instal 1458 4 
+institucio 1495 1 
+institut 999 6 1495 2 187 2 314 1 80 1 282 1 671 1 664 1 293 1 1420 1 925 1 1479 1 974 1 312 1 1459 1 792 1 1097 1 329 1 1284 1 1170 1 374 1 815 1 395 1 520 1 791 1 397 1 1332 1 32 1 1463 1 
+institutua 504 1 
+instruct 580 1 
+instrument 1282 5 1161 1 351 1 73 1 1068 1 
+instytut 1274 1 
+int 594 2 664 2 438 1 1147 1 1100 1 1145 1 397 1 66 1 414 1 
+integr 395 2 367 1 433 1 
+intellect 42 1 
+intellectu 433 1 
+intellig 96 1 
+inter 976 2 394 1 
+interact 1341 2 791 2 212 1 709 1 1519 1 1023 1 483 1 329 1 976 1 120 1 1226 1 1507 1 836 1 1215 1 
+interc 1495 1 
+intercat 1495 1 
+intercontinent 999 1 
+interest 969 1 976 1 
+interfac 594 1 1025 1 
+interferomet 134 1 
+intermediari 811 1 
+intern 195 3 1126 2 99 2 329 2 97 1 438 1 1441 1 664 1 1415 1 66 1 938 1 802 1 674 1 362 1 1167 1 814 1 790 1 1155 1 1482 1 175 1 320 1 322 1 507 1 609 1 847 1 360 1 374 1 42 1 811 1 366 1 371 1 
+internationalist 374 1 
+internet 176 2 348 2 1047 2 97 1 1504 1 977 1 77 1 1517 1 316 1 327 1 62 1 329 1 1012 1 397 1 1433 1 790 1 
+internetarchivebot 367 4 183 2 1513 1 976 1 1478 1 1001 1 910 1 
+internetresourc 1283 1 
+interpret 709 2 
+interti 36 1 
+interview 1356 8 999 5 687 4 632 2 1300 2 6 2 854 2 1065 1 1141 1 600 1 297 1 486 1 539 1 153 1 89 1 598 1 1100 1 1097 1 500 1 1012 1 802 1 1014 1 254 1 1183 1 684 1 
+intim 1275 1 
+intl 811 1 
+intoday 536 1 
+intraspin 983 1 
+intratext 699 1 
+intro 154 1 1519 1 
+introduct 594 1 906 1 731 1 963 1 977 1 1495 1 632 1 
+introductori 671 2 664 1 1455 1 
+intuit 348 1 
+invent 996 1 
+inventor 600 1 
+inventori 306 1 
+inver 1495 1 
+invest 976 1 362 1 
+investig 1420 1 
+investor 976 2 
+investpromo 976 1 
+invse 1507 1 
+inwithbacchus 921 1 
+io 1209 4 687 1 1103 1 
+ion 212 2 
+ipac 974 1 
+ipac20 974 1 
+ipp 974 1 
+ipsc 910 1 
+iq 976 2 249 1 
+iqoqi 963 1 
+iraq 976 9 183 1 
+iraqimag 976 1 
+ireland 1269 3 1214 2 1420 1 
+irifr 1126 1 
+irisa 1126 1 
+irish 580 3 606 1 1478 1 1269 1 
+irishbarrist 1214 1 
+irishcountri 1478 1 
+irisnet 483 1 
+irn 1332 1 
+irvin 1355 1 1433 1 
+is_200109 783 1 
+is_the_cia_assassination_order_of 56 1 
+isaac 999 1 
+isabella 349 1 352 1 351 1 
+isbeauti 933 1 
+isbn 1136 2 917 1 891 1 
+isgm_podcast 351 1 
+islam 1058 1 852 1 
+island 373 9 361 2 99 2 598 1 1185 1 1337 1 136 1 285 1 1356 1 368 1 
+iso3 365 1 
+isol 916 1 
+ispa 397 2 
+israel 1517 1 136 1 
+iss 395 1 
+issu 127 1 1223 1 580 1 933 1 394 1 433 1 1274 1 891 1 
+issue110 1007 1 
+itali 190 1 234 1 1420 1 933 1 
+italian 195 1 1283 1 
+italo 1332 1 
+itc 420 1 403 1 466 1 477 1 
+itch 1209 4 
+item 647 2 432 2 1111 1 1115 1 642 1 327 1 1332 1 
+item_view 360 1 
+iti 1495 1 
+itinerari 173 1 
+itselement 312 1 
+iub 1025 1 
+iv 845 2 86 1 
+iverson 486 1 
+ivil 680 1 
+ivoir 403 1 466 1 
+iwloc 1002 1 1268 1 
+iwm 680 1 
+ix 999 2 
+iza 88 1 
+j 195 2 297 1 999 1 1517 1 631 1 327 1 917 1 254 1 648 1 1449 1 974 1 29 1 
+j8nghhfq1hx3kpb6s8bqhh 507 1 
+j_barri 917 1 
+ja 1145 1 
+jabowen 910 1 
+jack 999 2 1322 1 
+jacki 731 1 
+jame 1479 4 894 4 327 2 891 2 1356 1 850 1 609 1 1517 1 631 1 
+james_f_byrnes_speaking_frank 1479 1 
+jan 1021 1 
+jan2002 963 1 
+janet 643 1 
+januari 131 2 183 2 86 1 36 1 938 1 1341 1 910 1 632 1 
+japanes 195 1 320 1 
+jaqu 1325 1 
+jargon 985 5 688 2 
+jasmuheen 1349 1 
+java 565 1 1126 1 40 1 
+javascript 709 1 857 1 1126 1 
+jave 599 3 
+javier 781 1 
+jbourj 699 1 
+jbrabham 1322 1 
+jd016263 1300 1 
+jed 311 2 
+jeff 938 1 
+jeff560 619 1 
+jefferso 1029 1 
+jefferson 1029 1 
+jellicoe_dispatch_1916 1023 1 
+jen1897 1079 2 
+jenkin 1079 2 
+jensen 96 5 
+jersey 486 1 
+jerusalem 1283 1 
+jessopp 1283 1 
+jew 1283 2 
+jewish 1283 5 1161 3 996 2 1311 2 598 1 285 1 1144 1 546 1 894 1 327 1 852 1 
+jewishencyclopedia 1161 1 1144 1 327 1 852 1 
+jewishhistori 1283 1 
+jewishhistorylectur 1311 1 327 1 
+jewishvirtuallibrari 1161 1 598 1 1283 1 
+jhse 1283 1 
+jhtml 1065 1 
+jila 963 1 
+jilawww 963 2 
+jim 1185 2 648 1 
+jiriwso 1025 1 
+jitterbuzz 86 1 
+jkimbal 103 1 
+jkok 1517 1 
+jkorpela 1504 1 
+jku 1126 2 
+jlab 312 1 
+jlawler 195 1 
+jnoncrysol 4 1 
+job 1100 1 
+jod 1517 1 
+johann 728 1 
+john 1290 2 1269 2 103 1 972 1 600 1 1115 1 1012 1 1449 1 1282 1 1275 1 
+johncoulthart 1275 1 
+johnson 213 1 599 1 
+johnsonsdepot 213 1 990 1 
+johnwheat 204 1 
+jon 486 1 
+jona 1174 1 
+jonathan 488 1 348 1 
+jonathon 1275 1 
+jondet 136 1 
+jorn 1358 1 
+joseph 1354 2 
+josephsmithpap 1354 1 
+journal 585 5 329 3 977 2 557 2 175 1 438 1 1086 1 1497 1 1126 1 4 1 1025 1 327 1 731 1 1269 1 599 1 1463 1 996 1 
+journalist 1356 2 
+journalofwestafricanlanguag 731 1 
+journey 226 2 190 1 648 1 
+joy 632 2 
+joyner 999 1 
+jp 1239 1 935 1 320 1 
+jpeg 855 1 
+jpg 976 2 1283 1 1519 1 
+jpl 134 3 
+jqeric 1282 1 
+jqjacob 791 1 
+jr 1002 1 
+js 1103 1 
+jsat 1126 1 
+jsbms_one4c 1497 1 
+jskz_bv0h5a 684 1 
+json 1 1 
+jsourc 598 1 1283 1 
+jsp 594 1 1025 1 398 1 704 1 591 1 590 1 1012 1 549 1 2 1 1495 1 974 1 557 1 
+judaica 906 1 1283 1 894 1 546 1 
+judg 80 1 
+juic 1349 2 
+jukebox 99 2 
+jukka 1504 1 
+juli 617 2 285 1 1174 1 134 1 1497 1 731 1 1051 1 135 1 204 1 976 1 940 1 1209 1 195 1 536 1 
+juliensart 972 1 
+jump 932 5 
+jumppanen 352 1 
+june 204 2 1167 1 297 1 671 1 134 1 731 1 1209 1 595 1 632 1 1356 1 1183 1 854 1 
+juni 1507 1 
+junior 1023 2 
+junki 932 1 
+jurisdict 1111 1 
+justic 80 1 1117 1 1155 1 
+justus 648 1 
+jut01 1023 1 
+jutland 1023 13 
+jutland1916 1023 1 
+jutlandbattlememori 1023 1 
+jutlandcrewlist 1023 1 
+jw 1282 1 
+jwhousman 204 1 
+jülich 917 1 
+k 664 1 1513 1 1155 1 1268 1 
+k7_electrical_specification_rev_eng 120 1 
+ka 1025 1 599 1 
+kabul 1058 1 
+kabyl 1116 1 
+kagan 570 1 
+kaist 1052 4 
+kalb 138 2 
+kane 1463 9 
+kane2 1463 1 
+kansa 1115 1 1021 1 
+kansasmemori 1115 1 
+kantar 1303 1 
+kantarbridg 1303 1 
+kaplan 894 1 
+karin 874 1 
+karmal 956 2 
+karol 1283 1 
+karte_wahlkreise_16dbt_a1 526 1 
+kataylor 1294 1 
+katharina 664 1 
+katherin 1237 2 
+kb 1 1 
+kb_kilobyt 703 1 
+kbr 1001 1 
+kchz6n3qhnw 133 1 
+kcl 226 1 
+keen 976 1 
+keep 395 1 
+kellerbook 1227 1 
+kennedi 348 2 
+kenneth 1021 1 
+kenni 1269 3 
+kermod 204 1 
+kernighan 687 12 
+kerri 1269 1 348 1 1420 1 
+kervark 1079 1 
+ketterl 963 2 
+ketterle_group 963 1 
+kevin 1355 1 
+kew 1023 1 
+kexu 1126 1 
+key 1303 2 374 1 641 1 362 1 299 1 366 1 371 1 360 1 
+keycard 1303 1 
+keyhol 901 1 
+keyword 974 2 86 1 893 1 
+keywork 790 2 
+kh 1458 1 
+kheng 1458 3 
+khmelnytski 1311 4 
+khmer 1458 15 
+khmer_swadesh_list 1458 1 
+khmeric 1458 2 
+khoya 599 1 
+khs 285 1 
+khyber 127 1 
+kibibyt 703 1 
+kid 329 1 
+kiddiematine 1132 2 
+kilbey 790 1 
+kile 1058 1 
+kill 1341 2 1058 2 1115 1 
+kilobit 302 1 703 1 
+kilobyt 302 1 703 1 
+kilu 55 1 
+kimbal 103 1 
+kind 1121 1 
+king 894 4 1023 1 1519 1 226 1 1174 1 
+kingdom 1023 1 
+kingsbridg 285 1 
+kingsbridgehistoricalsocieti 285 1 
+kingswood 816 1 
+kinship 731 1 
+kipl 1023 2 
+kish 1477 1 
+kislak 648 1 
+kisner 327 1 
+kit 1497 2 804 1 
+kitchen 86 1 
+kjv 906 2 
+klaeujmfo8j 910 1 
+klan 282 1 
+klassik 1433 1 
+klax 138 2 
+klein 938 1 
+kleioc 1519 1 
+klemper 348 1 
+klieman 731 1 
+kllba 1519 1 
+kloeri 1497 1 
+klux 282 1 
+km 1458 1 
+kmath262 718 2 
+knight_bob00 1232 1 
+knot 718 2 
+knowledg 632 2 703 1 1125 1 
+knowledgecent 1090 1 
+known 501 1 1018 1 1325 1 
+knudsen 1046 1 
+knuth 699 1 
+koch 917 2 
+koelman 728 1 
+kong 1214 2 1117 1 
+korpela 1504 1 
+kort 532 1 
+kortsoegn 532 1 
+kqed 486 1 
+kr 1052 4 
+krak 532 2 
+kristinn 329 1 
+ksc 1497 2 
+kt4h4nc4mb 1223 1 
+ku 1021 1 282 1 
+kubrick 804 3 
+kultur 359 1 
+kulturarvet 1056 1 
+kummer 664 1 
+kwid 693 1 
+ky 316 1 
+kyoto 935 1 
+kyrgyzstan 1019 1 
+l 90 3 86 2 699 1 985 1 1449 1 1226 1 749 1 299 1 89 1 1354 1 
+l0 120 1 
+l01 1443 1 
+l1 120 1 
+l2 120 1 
+l_190 664 1 
+l_19020060712en00010098 664 1 
+la 1495 8 1021 1 366 1 432 1 
+lab 486 5 687 3 688 2 1216 2 329 1 120 1 999 1 
+label 293 1 1001 1 
+labor 299 1 925 1 
+laboratori 486 1 
+labri 1126 1 
+lack 1086 1 
+lad 204 1 
+laden 221 1 
+ladi 297 1 
+laid 501 1 
+lake 249 1 716 1 767 1 1274 1 
+lakescientist 249 1 
+lam 906 1 
+lament 906 9 
+lan 1495 1 
+lancast 1007 2 
+lancer 1291 4 
+land 1442 3 311 1 1185 1 1497 1 420 1 66 1 100 1 
+landclaim 100 1 
+landingpag 173 1 
+lane 204 1 
+lang 918 6 438 3 1142 3 1144 3 266 3 432 2 414 2 1458 2 642 1 462 1 817 1 1145 1 524 1 467 1 365 1 374 1 235 1 749 1 6 1 532 1 224 1 
+langer 195 1 
+langers1749 195 1 
+langham 1283 1 
+langid 1123 1 
+langley 1291 1 
+langtolang 1079 1 
+languag 731 9 749 8 1495 6 1123 5 1116 4 1079 3 1025 2 1001 2 1126 2 97 1 688 1 1458 1 687 1 728 1 66 1 703 1 1356 1 1237 1 894 1 29 1 
+languoid 749 2 
+lanic 366 2 
+lanid 327 1 
+lanl 1014 1 
+laor 136 1 
+lar 1046 1 
+lara 888 1 
+larc 1291 1 
+larg 913 1 1158 1 1196 1 29 1 1479 1 935 1 972 1 
+largenum 29 1 
+largest 1478 1 
+larssen 249 1 
+lasa 1144 1 
+laser 73 1 
+last 365 2 1021 2 316 1 592 1 77 1 648 1 
+lastwil 648 1 
+laszlo 996 1 
+latchingre 1333 1 
+late 932 1 
+later 935 1 1001 1 999 1 
+latest 420 1 403 1 466 1 477 1 
+latim 893 1 
+latin 438 1 699 1 1226 1 1517 1 366 1 1018 1 546 1 
+laufent 1259 1 
+laugh 48 1 
+launch 1497 2 154 1 
+launchpad 1125 4 
+laureat 963 1 1097 1 
+laurent 77 2 
+law 299 6 1482 4 1117 4 664 3 80 2 56 2 438 1 370 1 195 1 626 1 187 1 96 1 
+lawlibrari 1214 1 
+lawoffic 370 1 
+lawsuit 1031 2 
+lay 1126 1 
+layout 976 1 
+lba 1519 4 
+lbblawyer 100 1 
+lcweb2 1425 1 
+lds 642 1 
+lead 1196 1 433 1 
+leader 550 4 367 2 553 2 554 2 395 2 536 1 
+leadership 1196 2 
+leagu 1339 2 654 1 704 1 893 1 609 1 549 1 557 1 
+leap 687 1 
+learn 212 2 1495 2 249 1 977 1 1126 1 1 1 319 1 1079 1 1025 1 1458 1 910 1 
+learn_catalan 1495 1 
+learner 1025 1 
+learningski 359 1 
+leather 890 4 
+leavesley 648 1 
+lec 953 1 
+lect 749 1 
+lectur 977 2 1068 2 327 2 963 1 1311 1 1103 1 
+lecture_19 1068 1 
+ledg 664 1 
+ledger 1183 1 
+leeunivers 1237 1 
+lefaso 374 2 
+legaci 536 1 1269 1 
+legal 438 1 80 1 664 1 1519 1 56 1 
+legend 802 5 1156 1 1018 1 1283 1 
+legendari 687 1 1325 1 
+lehigh 320 2 767 1 
+leib 1226 1 
+leibniz 1226 2 327 2 
+leiden 599 1 963 1 
+leidenuniv 963 1 
+leman 979 1 
+lemay 648 2 
+lemon 1196 2 1029 1 
+lender 1174 1 
+length 1067 2 
+lenten 729 1 
+leo 648 1 
+lerxst 6 1 
+lerxstamp 6 1 
+les 735 1 
+les24heur 979 1 
+lesson 1458 2 293 1 1079 1 914 1 
+lesson_plan 293 1 
+let 329 1 
+letter 804 1 204 1 600 1 1034 1 969 1 432 1 26 1 327 1 1354 1 
+leucocephalus 915 1 
+level 594 1 963 1 
+level_5 226 1 
+levin 999 1 
+lewi 1018 1 
+lewis_e_026 1018 1 
+lex 664 1 
+lexicon 1123 1 1025 1 
+lexicostatist 1123 1 
+lexingtonfilm 254 1 
+lexisnexi 299 1 
+lexuriserv 664 1 
+lg 609 1 327 1 
+lgs 731 1 
+lgsbygn 731 1 
+lhldigit 1471 1 
+lhop 407 1 
+li 86 2 1002 1 
+lib 1354 5 1021 2 1337 1 933 1 1227 1 1023 1 689 1 797 1 26 1 1463 1 959 1 320 1 360 1 1482 1 
+libel 1283 3 
+libmma 1030 1 933 1 
+librair 699 1 
+librari 36 6 1471 5 969 4 648 4 1090 3 1425 3 1018 3 855 2 1161 2 367 2 1354 2 360 2 1227 2 213 2 329 2 1442 2 54 1 1513 1 297 1 1283 1 370 1 642 1 361 1 1034 1 600 1 56 1 585 1 689 1 373 1 1356 1 374 1 204 1 2 1 1497 1 647 1 811 1 1332 1 1223 1 285 1 348 1 1025 1 1111 1 664 1 333 1 99 1 1 1 816 1 1001 1 299 1 136 1 1433 1 1214 1 1021 1 598 1 176 1 134 1 362 1 1445 1 173 1 906 1 534 1 976 1 599 1 195 1 940 1 437 1 366 1 32 1 371 1 459 1 
+libraryth 648 1 
+libretto 97 1 348 1 
+librivox 648 2 
+libsyn 349 1 352 1 
+libweb 327 1 
+libwww 969 1 
+licens 1125 5 501 1 309 1 
+lichtbildarchiv 1519 1 
+lie 1001 1 
+lieder 1001 2 
+life 297 3 1275 2 1517 2 1018 2 1356 2 977 2 56 2 392 2 226 2 86 1 1283 1 285 1 648 1 802 1 599 1 319 1 1226 1 1487 1 
+lifemiraclesofst00thomuoft 1283 1 
+lifeson 6 1 
+lifestyl 1325 1 
+light 1349 1 1023 1 1463 1 1067 1 
+lightnet 1349 1 
+like 1116 1 319 1 1056 1 134 1 
+lil 86 1 
+limbo 687 1 
+limbo_languag 687 1 
+limit 183 1 
+lin 684 1 
+lincoln32 1115 1 
+linda 1471 1 
+lindahal 1471 1 
+lindman 643 1 
+line 103 1 1456 1 709 1 66 1 1495 1 
+linear 906 1 
+lineup 190 2 
+lingel 1126 3 
+lingua 731 1 
+linguashop 1079 1 
+linguist 731 4 749 2 
+lingüística 1495 2 
+link 367 4 938 3 249 2 183 2 1186 2 699 1 1058 1 1478 1 1001 1 1322 1 392 1 811 1 1482 1 1025 1 1126 1 1167 1 1158 1 910 1 374 1 976 1 1513 1 1433 1 100 1 
+linkpath 1311 1 
+linnaean 1471 1 
+linnaeandiss 1471 1 
+linnaeus 1471 8 
+linnaeus2007 1471 1 
+linnean 1471 8 969 1 
+linné 1471 1 
+linux 595 2 632 1 
+lion 1340 5 606 3 1023 1 
+lionsrugbi 606 1 
+lisbon 731 1 
+list 1023 3 731 2 749 2 1458 2 1102 2 1495 2 187 2 699 1 282 1 1015 1 66 1 1349 1 1046 1 48 1 595 1 1205 1 996 1 1185 1 1174 1 999 1 554 1 1196 1 751 1 329 1 217 1 1307 1 1014 1 254 1 836 1 1215 1 1463 1 
+list_t 1517 1 
+liste_text 327 1 
+listitem 632 1 
+literari 26 1 940 1 1034 1 
+literaryballadarch 1034 1 
+literarydevic 1237 1 
+literateprogram 1301 3 
+literatur 1237 2 1021 2 1097 2 797 1 408 1 1007 1 1116 1 940 1 1471 1 
+litig 299 1 
+litol 794 1 
+littl 42 7 213 1 
+liu 687 1 
+live 92 2 1086 1 577 1 500 1 1083 1 403 1 348 1 1349 1 48 1 1356 1 914 1 918 1 1018 1 410 1 983 1 466 1 894 1 
+livechart 1083 1 
+liverpool 779 1 
+livinglandscap 1222 1 
+livius 1174 3 845 1 1327 1 
+livr 580 1 
+lkw 461 1 
+lla_arch 77 1 
+llacan 1025 1 
+llc 1495 1 
+llengcat 1495 1 
+llengua 1495 6 
+lliur 1495 1 
+llmap 1116 1 
+llukasz 1058 1 
+lmp 1123 1 
+lnk 811 1 
+lnp3 836 1 
+loc 811 2 648 2 585 1 976 1 1425 1 195 1 647 1 642 1 293 1 
+local 138 3 1223 1 204 1 1112 1 749 1 299 1 403 1 466 1 1519 1 933 1 1482 1 
+local_bas 136 1 
+localwiki 1223 1 
+locat 4 1 544 1 901 1 
+logic 1126 4 
+logictool 1126 2 
+lomax 580 1 
+london 1517 2 636 2 1471 2 1104 2 176 1 641 1 373 1 1519 1 1023 1 204 1 226 1 152 1 
+long 1021 2 790 1 999 1 
+longlist 940 2 
+lopucki 1117 1 
+lorentz 963 1 
+lorenz 671 2 
+lorenzo 1283 1 
+lortel 77 1 
+los 893 1 
+loss 1226 1 
+lost 1031 4 1517 2 762 2 204 1 285 1 
+lotexx 1116 1 
+loui 646 1 
+loung 1046 1 
+love 1185 1 933 1 671 1 89 1 432 1 48 1 1356 1 
+lowtech 580 1 
+lpar 703 1 
+lr 86 1 
+lrb 204 1 
+lrc 794 1 
+lsa 134 1 
+lsb 595 1 
+lse 641 2 
+lsimon 1126 1 
+lsmse 410 1 
+lspost17 327 1 
+ltst 1445 1 
+lucamoroni 1513 1 
+lucent 486 1 
+ludeck 195 2 
+ludwig 351 1 
+lugosi 1344 1 
+lui 627 1 
+luigi 932 1 
+lumber 985 2 
+luminari 86 2 
+luna 1327 1 
+lurk 1183 1 
+lurker 1183 2 
+luxuri 368 1 
+lvivbest 1311 1 
+lvs 735 1 
+lwd 299 1 
+lwn 595 1 
+lyberti 703 1 
