@@ -6,18 +6,18 @@ This is search module which offers you a friendly GUI
 from django.http import HttpResponse
 from django.shortcuts import render_to_response
 
+# import wikipediaapi
 import linecache
 import timeit
 from .config import COMPRESS_INDEX, TOP_N_POSTINGS_FOR_EACH_WORD, CONSIDER_TOP_N_POSTINGS_OF_EACH_WORD, FIELD_WEIGHTS,\
     TOP_N_RESULTS, FIELD_WEIGHTS2
-# from config import COMPRESS_INDEX, TOP_N_POSTINGS_FOR_EACH_WORD, CONSIDER_TOP_N_POSTINGS_OF_EACH_WORD, FIELD_WEIGHTS, \
-#     TOP_N_RESULTS, FIELD_WEIGHTS2
 from collections import defaultdict
 import sys
 import re
 import math
 from django.http import JsonResponse
-offset = []
+
+offset, titleOffset = [], []
 
 def findFileNumber(low, high, offset, pathFolder, word, filePath):  # Binary Search on offset
     if len(offset) > 0:
@@ -143,30 +143,32 @@ def ranking4(results, documentFreq, numberOfFiles):
                     listOfDocuments[postingList[i]] += math.log(1 + float(postingList[i + 1])) * factor
     return listOfDocuments
 
-#表单
+#返回表单
 def search_form(request):
+    # init()
     return render_to_response('search_form.html')
 
-
-#接受请求数据
+def init():
+    with open('./output' + '/offset.txt', 'r') as f:
+        for line in f:
+            offset.append(int(line.strip()))
+    with open('./output' + '/titleoffset.txt', 'r') as f:
+        for line in f:
+            titleOffset.append(int(line.strip()))
+init()
 def search(request):
     request.encoding = 'utf-8'
     query = ''
+    # init()
     if 'q' in request.GET and request.GET['q']:
         query = request.GET['q']
         message = "你搜索的内容为：" + request.GET['q'] + "<br>" + "<br>"
         message += "搜索结果如下:" + "<br>" + "<br>"
         message1 = ''
-        with open('./output' + '/offset.txt','r') as f:
-            for line in f:
-                offset.append(int(line.strip()))
-        titleOffset = []
-        with open('./output' + '/titleoffset.txt', 'r') as f:
-            for line in f:
-                titleOffset.append(int(line.strip()))
 
-        fVocabulary = './output' + '/vocabularyList.txt'
         start_time = timeit.default_timer()
+        fVocabulary = './output' + '/vocabularyList.txt'
+
         queryWords = query.lower().strip().split(' ')
         listOfFields, temp = [], []
         for word in queryWords:
@@ -179,11 +181,12 @@ def search(request):
             listOfFields.extend(_fields)
             temp.extend(_words)
         results, documentFrequency = queryMultifield(temp, listOfFields, './output', fVocabulary)
-
+        # 这儿执行完之后,产生一串数字,以0结束
         with open('./output' + '/numberOfFiles.txt', 'r') as f:
             numberOfFiles = int(f.read().strip())
         results = ranking1(results, documentFrequency, numberOfFiles)
         end_time = timeit.default_timer()
+
         if len(results) > 0:
             top_n_docs = sorted(results, key = results.get, reverse = True)[:TOP_N_RESULTS]
             titleFile = './output' + '/title.txt'
@@ -193,9 +196,87 @@ def search(request):
                 if not len(title):
                     print("Title not found:", docid, titleFile, len(titleOffset))
                 dict_Title[docid] = ' '.join(title)
+            # for rank, docid in enumerate(top_n_docs):
+            #     message +=  str(rank + 1) + ": " + str(dict_Title[docid]) + " (score: " + str(round(results[docid], 3)) + ")" + "<br>" + "<br>"
             for rank, docid in enumerate(top_n_docs):
-                message +=  str(rank + 1) + ": " + str(dict_Title[docid]) + " (score: " + str(round(results[docid], 3)) + ")" + "<br>" + "<br>"
-            message1 += "查询共花费: " + str(round(end_time - start_time, 2)) + "秒"
+                # wiki_lang = wikipediaapi.Wikipedia('en')
+                # string = str(dict_Title[docid])
+                # page = wiki_lang.page(string)
+                # pageurl = page.fullurl
+                pageurl = 'https://en.wikipedia.org/wiki/'
+                titlenames = dict_Title[docid].strip().split(' ')
+                for titlename in titlenames:
+                    pageurl += titlename + "_"
+                pageurl = pageurl.strip('_')
+                message +=  str(rank + 1) + ": " + '<a href=\"' + pageurl + '\">' + str(dict_Title[docid])+ '</a>' \
+                            + " (score: " + str(round(results[docid], 3)) + ")" + "<br>" + "<br>"
+            message1 = "查询共花费: " + str(round(end_time - start_time, 2)) + "秒"
         else:
-            message1 = "Phrase Not Found"
+            message1 = "Phrase Not Found." + "<br>" + "查询共花费: " + str(round(end_time - start_time, 2)) + "秒"
     return HttpResponse(message + message1)
+
+#接受请求数据(queryWords)
+def searchui(request):
+    request.encoding = 'utf-8'
+    query = ''
+    while(True):
+        if 'q' in request.GET and request.GET['q']:
+            query = request.GET['q']
+            message = "你搜索的内容为：" + request.GET['q'] + "<br>" + "<br>"
+            message += "搜索结果如下:" + "<br>" + "<br>"
+            message1 = ''
+            with open('./output' + '/offset.txt','r') as f:
+                for line in f:
+                    offset.append(int(line.strip()))
+            titleOffset = []
+            with open('./output' + '/titleoffset.txt', 'r') as f:
+                for line in f:
+                    titleOffset.append(int(line.strip()))
+            start_time = timeit.default_timer()
+            fVocabulary = './output' + '/vocabularyList.txt'
+            # start_time = timeit.default_timer()
+            queryWords = query.lower().strip().split(' ')
+            listOfFields, temp = [], []
+            for word in queryWords:
+                if re.search(r'[t|b|c|e|i]{1,}:', word):
+                    _fields = list(word.split(':')[0])
+                    _words = [word.split(':')[1]] * len(_fields)
+                else:
+                    _fields = ['t', 'b', 'c', 'e', 'i']
+                    _words = [word] * len(_fields)
+                listOfFields.extend(_fields)
+                temp.extend(_words)
+            results, documentFrequency = queryMultifield(temp, listOfFields, './output', fVocabulary)
+
+            with open('./output' + '/numberOfFiles.txt', 'r') as f:
+                numberOfFiles = int(f.read().strip())
+            results = ranking1(results, documentFrequency, numberOfFiles)
+            end_time = timeit.default_timer()
+            if len(results) > 0:
+                top_n_docs = sorted(results, key = results.get, reverse = True)[:TOP_N_RESULTS]
+                titleFile = './output' + '/title.txt'
+                dict_Title = {}
+                for docid in top_n_docs:
+                    title, _ = findFileNumber_forTitleSearch(0, len(titleOffset), titleOffset, './output', docid, titleFile)
+                    if not len(title):
+                        print("Title not found:", docid, titleFile, len(titleOffset))
+                    dict_Title[docid] = ' '.join(title)
+                # for rank, docid in enumerate(top_n_docs):
+                #     message +=  str(rank + 1) + ": " + str(dict_Title[docid]) + " (score: " + str(round(results[docid], 3)) + ")" + "<br>" + "<br>"
+
+                for rank, docid in enumerate(top_n_docs):
+                    # wiki_lang = wikipediaapi.Wikipedia('en')
+                    # string = str(dict_Title[docid])
+                    # page = wiki_lang.page(string)
+                    # pageurl = page.fullurl
+                    pageurl = 'https://en.wikipedia.org/wiki/'
+                    titlenames = dict_Title[docid].strip().split(' ')
+                    for titlename in titlenames:
+                        pageurl += titlename + "_"
+                    pageurl = string.strip('_')
+                    message +=  str(rank + 1) + ": " + '<a href=\"' + pageurl + '\">' + str(dict_Title[docid])+ '</a>' \
+                                + " (score: " + str(round(results[docid], 3)) + ")" + "<br>" + "<br>"
+                message1 = "查询共花费: " + str(round(end_time - start_time, 2)) + "秒"
+            else:
+                message1 = "Phrase Not Found." + "<br>" + "查询共花费: " + str(round(end_time - start_time, 2)) + "秒"
+        return HttpResponse(message + message1)
